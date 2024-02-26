@@ -1,7 +1,11 @@
 ### Hi there 👋
 
+- 🌱 I’m a master student from the Chinese University of Hongkong, Shenzhen.
+- 👯 I am currently interested in LLM Security and deepfake detection, welcome everyone to exchange ideas with me.
+- 📫 How to reach me: 223040004@link.cuhk.edu.cn
+
 <!--
-**chenyize111/chenyize111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Eric3200C/Eric3200C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
